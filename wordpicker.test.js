@@ -1,4 +1,4 @@
-const randomWordPicker = require('./script.js');
+const randomWordPicker = require('./wordpicker.js');
 
 // onderstaande test of er in ieder geval iets is gekozen, maar nog niet of deze ook in de lijst voorkomt.
 test('something was picked', () => {
