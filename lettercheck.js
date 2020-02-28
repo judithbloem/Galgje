@@ -1,6 +1,6 @@
-const letterInput = 'e';
+const letterInput = document;
 // = document.querySelector('input');
 
-const randomWord = 'telefoon';
+const randomWord = randomWordPicker(wordList);
 
 module.exports = (letterInput, randomWord);
